@@ -1,0 +1,14 @@
+.appBar {
+    background-color: #800080;
+    margin-bottom: 20px;
+
+    h1 {
+        font-weight: 300;
+    }
+
+    nav a[data-react-toolbox='link'] {
+        color: white;
+        opacity: 0.8;
+    }
+}
+

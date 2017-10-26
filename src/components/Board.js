@@ -4,10 +4,9 @@ import { inject, observer } from 'mobx-react';
 import * as CONSTANTS from "../include/constants";
 
 const boardStyle = {
-    display: 'flex',
+    display: 'inline-flex',
     flexDirection: 'row',
     flexWrap: 'wrap',
-
 }
 
 // @inject('mainStore') @observer
